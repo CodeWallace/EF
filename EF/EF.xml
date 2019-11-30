@@ -11,37 +11,47 @@
         </member>
         <member name="P:EF.Config.Configs.ClientVersion">
             <summary>
-            本地客户端版本号 Resource/Config.txt
+            本地客户端版本号 
             </summary>
         </member>
         <member name="P:EF.Config.Configs.IsRemote">
             <summary>
-            是否远程版本 Resource/Config.txt
+            是否远程版本
+            </summary>
+        </member>
+        <member name="P:EF.Config.Configs.IsEncrypt">
+            <summary>
+            是否远程版本
             </summary>
         </member>
         <member name="P:EF.Config.Configs.IsDebugMode">
             <summary>
-            是否调试模式 Resource/Config.txt
+            是否调试模式
             </summary>
         </member>
-        <member name="P:EF.Config.Configs.LocalLua">
+        <member name="P:EF.Config.Configs.IsLocalLua">
             <summary>
-            是否使用本地lua Resource/Config.txt
+            是否使用本地lua
             </summary>
         </member>
         <member name="P:EF.Config.Configs.Channel">
             <summary>
-            渠道号 Resource/Config.txt
+            渠道号 
             </summary>
         </member>
         <member name="P:EF.Config.Configs.AccessUrl">
             <summary>
-            接入服务器地址 Resource/Config.txt
+            接入服务器地址
             </summary>
         </member>
         <member name="P:EF.Config.Configs.OS">
             <summary>
-            平台 Resource/Config.txt
+            平台
+            </summary>
+        </member>
+        <member name="P:EF.Config.Configs.Mode">
+            <summary>
+            发布版本 Devellop Release ...
             </summary>
         </member>
         <member name="P:EF.Config.Configs.ResourceUrl">
